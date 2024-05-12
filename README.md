@@ -1,5 +1,5 @@
 # Machine-Learning
-![Alt Text](image/ML.jpeg)
+![ML](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12287.jpeg)
 0. 머신러닝의 분류
     - https://youtu.be/Z8tZjIOptZI?si=fIX2B-OkYZA6xZtp
 
@@ -22,7 +22,7 @@
 
 4. 나에게 필요한 머신러닝
     - https://youtu.be/9HnAVKPk_bg
-![Alt Text](image/FindML.jpg)
+![ML](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12374.jpg)
 
 
 - 출처: https://www.youtube.com/@coohde
