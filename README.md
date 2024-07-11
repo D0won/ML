@@ -24,9 +24,4 @@
     - https://youtu.be/9HnAVKPk_bg
 ![ML](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12374.jpg)
 
-5. 머신러닝/딥러닝 공부 순서
-   1. 모두를 위한 딥러닝 2 ( https://www.boostcourse.org/ai212/joinLectures/25072)
-   2. 밑바닥부터 시작하는 딥러닝1,2,3
-   3. 핸즈온 머신러닝
-- (추가)프리드버그 선형대수, 딥러닝을 위한 선형대수 등
 - 출처: https://www.youtube.com/@coohde
